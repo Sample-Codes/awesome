@@ -1,6 +1,5 @@
 ## ***These are my most used apps***  
   
-  
 ## [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
   
   
