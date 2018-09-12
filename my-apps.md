@@ -1,9 +1,6 @@
-## ***These are my most used apps***  
+## ***These are my most used apps*** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
   
-## [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-  
-  
-**Windows**    
+## **Windows**    
 
 [Typora](https://typora.io/)  
 [Namo Webeditor]()  
