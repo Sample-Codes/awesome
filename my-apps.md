@@ -1,7 +1,9 @@
 ## ***These are my most used apps***  
-   
-![https://awesome.re](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-   
+  
+  
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+  
+  
 **Windows**    
 
 [Typora](https://typora.io/)  
