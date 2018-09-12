@@ -1,11 +1,11 @@
 <!--
   Title: Awesome Sysadmin
   Description: A curated list of amazingly awesome open source sysadmin resources.
-  Author: n1trux
+  Author: n1trux - https://github.com/n1trux/awesome-sysadmin
   -->
 
 # Awesome Sysadmin  
-[![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
   
 **A curated list of amazingly awesome open source sysadmin resources.** Please read [CONTRIBUTING](./.github/CONTRIBUTING.md) if you wish to add software and consider [donating](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
   
@@ -727,6 +727,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 ## License
 
-![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
+![![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
