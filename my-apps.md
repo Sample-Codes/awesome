@@ -1,4 +1,4 @@
-<p align="center">## ***These are my most used apps***</p>  
+<p align="center"><b><h2>***These are my most used apps***</b></h2></p>  
 <p align="center"><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge.svg" border="0" alt="Awesome"></a></p>  
   
   
