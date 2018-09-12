@@ -4,7 +4,7 @@
   
   
   
-### [Typora](https://typora.io/)  
+[Typora](https://typora.io/)  
 [Namo Webeditor]()  
 [Programmers Notepad](http://www.pnotepad.org/)  
 [Visual Studio Code](https://code.visualstudio.com/)  
@@ -15,7 +15,7 @@
 [Putty](https://www.putty.org/)  
 [Git](https://git-scm.com/download/win)  
 [RamBox](rambox.pro)  
-[ThunderBird](https://donate.mozilla.org/en-US/thunderbird/?utm_source=thunderbird.net&utm_medium=referral&utm_content=post_download&test=tbdownload)  
+[ThunderBird](https://www.thunderbird.net)  
 [Pidgin](http://pidgin.im/)  
 [FireFox](getfirefox.com)  
 [Chome](http://www.google.com/chrome)  
