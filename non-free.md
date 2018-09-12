@@ -118,4 +118,10 @@
  * [RemoteUtilities](https://www.remoteutilities.com/) `⊘ Proprietary` - Remote Utilities is self-hosted remote support software for LAN administration and remote support over the Internet.
 
  
-<p align="center"><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge.svg" border="0" alt="Awesome"></a></p>  
+## License
+  
+<p align="center">
+<a href="https://creativecommons.org"><img src="https://static.casjay.net/default-icons/cc.png" border="0"></a> | <a href="https://awesome.re"><img src="https://static.casjay.net/default-icons/awesome.png" border="0"></a>
+</p>  
+  
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.  
