@@ -1,9 +1,10 @@
 # **My Awesome Apps List**
-  
-  
-### Windows  
 
-[Typora](https://typora.io/)  
+## Windows   
+
+  
+
+### [Typora](https://typora.io/)  
 [Namo Webeditor]()  
 [Programmers Notepad](http://www.pnotepad.org/)  
 [Visual Studio Code](https://code.visualstudio.com/)  
