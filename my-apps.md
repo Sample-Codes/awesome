@@ -1,4 +1,4 @@
-## ***These are my most used apps*** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+## ***These are my most used apps*** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re){:target="_blank"} 
   
 ## **Windows**    
 
