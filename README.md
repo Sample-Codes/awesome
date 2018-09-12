@@ -12,4 +12,4 @@
   
 
 
-[![Build Status](https://travis-ci.org/casjay/awesome.svg?branch=master)](https://travis-ci.org/casjay/awesome)
+[![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/casjay) [![Build Status](https://travis-ci.org/casjay/awesome.svg?branch=master)](https://travis-ci.org/casjay/awesome)
