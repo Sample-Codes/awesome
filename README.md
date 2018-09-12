@@ -1,6 +1,5 @@
 # Selfhosted
 Taken from (https://github.com/n1trux/awesome-sysadmin) and (https://greplo.com/projects/awesome_selfhosted)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 
@@ -1428,5 +1427,6 @@ Contributing guidelines can be found [here](.github/CONTRIBUTING.md).
 The list of authors can be found [here](AUTHORS.md).
 
 ## License
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+  
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
