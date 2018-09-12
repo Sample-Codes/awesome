@@ -147,8 +147,6 @@
 * [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
 * [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
 * [Cobbler](http://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
-* [Cracow Cloud One - Polish Private Cloud](http://cc1.ifj.edu.pl/) - The CC1 system provides a complete solution for Private Cloud Computing.
-* [HPE Helion Eucalyptus](http://www8.hp.com/us/en/cloud/helion-eucalyptus-overview.html) - Private cloud software with AWS compatibility.
 * [Flynn](https://flynn.io) - PaaS
 * [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 * [OpenNebula](http://opennebula.org/) - User-driven cloud management platform for sysadmins and devops.
@@ -215,7 +213,6 @@
 * [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
 * [Puppet](https://puppet.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 * [Salt](http://saltstack.com/) - It's written in Python.
-* [Slaughter](http://www.steve.org.uk/Software/slaughter/) - It's written in Perl.
 
 ## Continuous Integration & Continuous Deployment
 
@@ -283,7 +280,6 @@
 * [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
 * [Lustre](http://lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing.
 * [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
-* [MogileFS](http://mogilefs.org/) - Application level, network distributed file system.
 * [OpenAFS](http://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
 * [Ori Filesystem](http://ori.scs.stanford.edu/) - A Secure Distributed File System built for offline operation.
 * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
@@ -343,7 +339,6 @@
 * [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
 * [FreeRADIUS](http://freeradius.org/) - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS.
 * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
-* [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 * [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
 * [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
 
@@ -362,7 +357,7 @@
 
 *IT Assets Management software.*
 
-* [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
+* [GLPI](http://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface.
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) - Enables users to inventory their IT assets.
 * [OPSI](http://www.opsi.org) - Hardware and software inventory, deployment, and patching for Linux and Windows.
 * [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration.
@@ -381,7 +376,7 @@
 * [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (Replaces Heka).
 * [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
 * [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
-* [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
+* [Octopussy](https://octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
 ## Mail Clients
 
@@ -430,7 +425,6 @@
 * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
 * [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
-* [SWMP - Server Web Monitor Page](https://swmp.fuzzytek.ml/) - A responsive, eye-pleasing Linux server statistics dashboard.([Source Code](https://github.com/fuzzymannerz/swmp))
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 * [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
 * [Vector](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
@@ -458,7 +452,7 @@
   * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
   * [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
   * [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
-  * [Netdata](http://netdata.firehol.org/) - Real-time performance monitoring for Linux systems with plugin support.
+  * [Netdata](http://my-netdata.io/) - Real-time performance monitoring for Linux systems with plugin support.
 
 * Storage
   * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
@@ -510,7 +504,7 @@
   * [Neo4j](http://neo4j.com/) - Graph database.
 * Key-Value
   * [LevelDB](https://github.com/google/leveldb) - Google's high performance key/value database.
-  * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
+  * [Redis](https://redis.io/) - Networked, in-memory, key-value data store with optional durability.
   * [Riak](http://docs.basho.com/) - Another fault-tolerant key-value NoSQL database.
 
 Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
@@ -607,8 +601,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 *Virtualization software.*
 
-* [Archipel](http://archipelproject.org/) - XMPP based virtualization management platform.
-* [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
 * [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
 * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
 * [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
@@ -671,7 +663,6 @@ Various resources, such as books, websites and articles, for improving your skil
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - How DevOps techniques can fix the problems that happen in IT organizations.
 * [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.
-* [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
 * UNIX and Linux System Administration Handbook (ISBN-13: 978-0131480056) - Approaches system administration from a practical perspective.
 
 ## Communities / Forums
