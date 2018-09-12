@@ -32,7 +32,7 @@ script:
   - git diff master.. -U0 README.md | grep -Pos "(?<=^\+).*" >> temp.md || (exit 0)
   - node test.js temp.md
   - awesome_bot temp.md --allow-redirect || (exit 0)
-  - danger --verbose
+  - danger --verbose || (exit 0)
   
 notifications:
   email: false
