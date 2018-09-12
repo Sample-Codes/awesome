@@ -1,9 +1,9 @@
 # **My Awesome Apps List**
-
-## Windows   
-
   
-
+## Windows   
+  
+  
+  
 ### [Typora](https://typora.io/)  
 [Namo Webeditor]()  
 [Programmers Notepad](http://www.pnotepad.org/)  
@@ -26,11 +26,12 @@
 [ActiveGo](https://www.activestate.com/activego)  
 [ActiveLua***](https://www.activestate.com/lua)  
 [ActiveNode***](https://www.activestate.com/node)  
-
+  
+  
 For testing  
 [Apache Custom](https://casjay.com/updates/Apache%20HTTPD.exe)  
 [PHP Custom](https://casjay.com/updates/PHP.exe)  
-
   
-
+  
+  
 <p align="center"><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge.svg" border="0" alt="Awesome"></a></p>  
