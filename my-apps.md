@@ -1,7 +1,6 @@
 <p align="center"><b><font size="18">These are my most used app</font></b></p>  
 <p align="center"><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge.svg" border="0" alt="Awesome"></a></p>  
-  
-  
+
 ## **Windows**    
 
 [Typora](https://typora.io/)  
