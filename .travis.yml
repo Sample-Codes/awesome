@@ -11,7 +11,7 @@ before_install:
   - sudo apt-get update -y -qq 
   - sudo apt-get install -y -qq lsb-release wget bash
   - sudo wget https://github.com/mike42/mdcheckr/releases/download/v1.2/mdcheckr_1.2-1_all.deb 
-  - sudo dpkg -i mdcheckr_x.y-z_all.deb && sudo sudo apt-get -f install
+  - sudo dpkg -i mdcheckr_1.2-1_all.deb && sudo sudo apt-get -f install
 
 addons:
   apt:
