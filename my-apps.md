@@ -1,4 +1,4 @@
-## ***These are my most used apps*** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re){:target="_blank"} 
+## ***These are my most used apps*** <a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge.svg" border="0" alt="Awesome"></a> 
   
 ## **Windows**    
 
