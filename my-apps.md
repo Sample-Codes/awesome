@@ -1,6 +1,7 @@
-->## ***These are my most used apps***  
+<p align="center">
+## ***These are my most used apps***  
 <a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge.svg" border="0" alt="Awesome"></a>
-<-  
+</p>  
   
 ## **Windows**    
 
