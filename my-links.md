@@ -1,7 +1,7 @@
 # **My Awesome Links List**
 
-(https://github.com/n1trux/awesome-sysadmin)
-
+https://github.com/n1trux/awesome-sysadmin  
+https://github.com/stevemao/github-issue-templates  
 
 
 
