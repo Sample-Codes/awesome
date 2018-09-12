@@ -16,9 +16,15 @@ Non-free software in `non-free.md`:
 
 
 - [ ] Your additions are ordered alphabetically.
+<<<<<<< HEAD
 - [ ] Your additions are [Free software](https://en.wikipedia.org/wiki/Free_software), or if not they have been added to [non-free](../non-free.md) and marked `? Proprietary`.
 - [ ] If your additions depend on proprietary services outside the user's control, they must be marked `?`.
 - [ ] Your additions are not already listed at [awesome](https://github.com/casjay/awesome) (IT infrastructure management), [staticgen.com](https://www.staticgen.com/) or [staticsitegenerators.net](https://staticsitegenerators.net/) (static site generators).
+=======
+- [ ] Your additions are [Free software](https://en.wikipedia.org/wiki/Free_software), or if not they have been added to [non-free](../non-free.md) and marked `⊘ Proprietary`.
+- [ ] If your additions depend on proprietary services outside the user's control, they must be marked `⚠`.
+- [ ] Your additions are not already listed at [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) (IT infrastructure management), [staticgen.com](https://www.staticgen.com/) or [staticsitegenerators.net](https://staticsitegenerators.net/) (static site generators).
+>>>>>>> 74b08a5f6904dead1d158cf6e7be13ce183b71ef
 - [ ] Your additions have their `License` main server-side `Language`/platform/requirement listed.
 - [ ] Any licenses you have added are in our [list of licenses](https://github.com/casjay/awesome/blob/master/README.md#list-of-licenses).
 - [ ] You have searched the repository for any relevant [issues](https://github.com/casjay/awesome/issues) or [PRs](https://github.com/casjay/awesome/pulls), incluing closed ones.
