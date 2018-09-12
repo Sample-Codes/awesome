@@ -1,9 +1,7 @@
 ## ***These are my most used apps***  
-
-
-[Awesome](https://awesome.re/badge.svg)(https://awesome.re)
-
-
+   
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+   
 **Windows**    
 
 [Typora](https://typora.io/)  
@@ -32,4 +30,3 @@
 For testing  
 [Apache Custom](https://casjay.com/updates/Apache%20HTTPD.exe)  
 [PHP Custom](https://casjay.com/updates/PHP.exe)  
-  
