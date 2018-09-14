@@ -30,7 +30,7 @@ before_script:
 script:
   - find . -name '*.md' -print0 | xargs -0 mdcheckr
   - git diff master.. -U0 README.md | grep -Pos "(?<=^\+).*" >> temp.md || (exit 0)
-  - node test.js temp.md
+  - node ./script/test.js temp.md
   - awesome_bot temp.md --allow-redirect --set-timeout=3 || (exit 0)
   - danger --verbose
 
