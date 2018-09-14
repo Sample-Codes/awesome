@@ -1,5 +1,5 @@
-# ***Jason's Awesome List***  
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+# ***Jason's Awesome List*** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+ 
 
 [My Apps](https://github.com/casjay/awesome/blob/master/my-apps.md)  
 [My Links](https://github.com/casjay/awesome/blob/master/my-links.md)  
@@ -14,8 +14,6 @@
 <!-- Begin Footer -->
 <footer>
 <center>
-<div>
-<center>
 <!-- Start of Rocket.Chat Livechat Script -->
 <script type="text/javascript">
 (function(w, d, s, u) {
@@ -26,7 +24,6 @@
 })(window, document, 'script', 'https://chat.malaks.us/livechat');
 </script>
 <!-- End of Rocket.Chat Livechat Script -->
-</center>
 <!-- Begin Piwik Tracking Code -->
 <script type="text/javascript">
 var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.casjay.net/" : "http://piwik.casjay.net/");
@@ -120,10 +117,10 @@ stats"></a></div></noscript>
 <!-- End Statcounter Code -->
 
 <!-- Begin Global Footer -->
-<center>
+
 <br>
 ------------Begin Ad------------<br>
-<! -- Begin chitika ad -->
+<!-- Begin chitika ad -->
 <script type="text/javascript">
   ( function() {
     if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
@@ -138,10 +135,8 @@ stats"></a></div></noscript>
 
 ------------end Ad------------<br>
 <br>
-</center>
 <!-- End Global Footer -->
 
-</div>
 </center>
 </footer>
 <!-- End Footer -->
