@@ -2,8 +2,8 @@
 
 https://github.com/n1trux/awesome-sysadmin  
 https://github.com/stevemao/github-issue-templates  
-
-
+https://codacy.com  
+https://travis-ci.org
 
 
 
