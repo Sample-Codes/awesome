@@ -5,7 +5,7 @@
   
   
 [Typora](https://typora.io/)  
-[Namo Webeditor]()  
+[Namo Webeditor](http://namo.com)  
 [Programmers Notepad](http://www.pnotepad.org/)  
 [Visual Studio Code](https://code.visualstudio.com/)  
 [Brackets](http://brackets.io/)  
@@ -15,7 +15,7 @@
 [TightVNC](https://www.tightvnc.com/)  
 [Putty](https://www.putty.org/)  
 [Git](https://git-scm.com/download/win)  
-[RamBox](rambox.pro)  
+[RamBox](http://rambox.pro)  
 [ThunderBird](https://www.thunderbird.net)  
 [Pidgin](http://pidgin.im/)  
 [FireFox](getfirefox.com)  
