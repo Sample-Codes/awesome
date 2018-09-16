@@ -1,5 +1,6 @@
-# **\*Jason's Awesome List*** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+# ***Jason's Awesome List*** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
   
+[My Domain List](https://github.com/casjay/awesome/blob/master/my-domains.md)  
 [My Apps](https://github.com/casjay/awesome/blob/master/my-apps.md)  
 [My Links](https://github.com/casjay/awesome/blob/master/my-links.md)  
 [Self Hosted](https://github.com/casjay/awesome/blob/master/selfhosted.md)  
